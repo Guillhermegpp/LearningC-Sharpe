@@ -1,0 +1,6 @@
+E:\Users\Guilherme\source\repos\Teste\Teste\bin\Release\Teste.exe.config
+E:\Users\Guilherme\source\repos\Teste\Teste\bin\Release\Teste.exe
+E:\Users\Guilherme\source\repos\Teste\Teste\bin\Release\Teste.pdb
+E:\Users\Guilherme\source\repos\Teste\Teste\obj\Release\Teste.csproj.CoreCompileInputs.cache
+E:\Users\Guilherme\source\repos\Teste\Teste\obj\Release\Teste.exe
+E:\Users\Guilherme\source\repos\Teste\Teste\obj\Release\Teste.pdb
